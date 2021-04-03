@@ -4,6 +4,11 @@ TASK 1 Prediction using Supervised ML (Level - Beginner)
 
 Predict the percentage of marks of an student based on the number of study hours
 
+### This Project will predict scores based on Student's Hours of study 
+
+![Linear Regression](https://s3.amazonaws.com/stackabuse/media/linear-regression-python-scikit-learn-1.png)
+
+
 This is a simple linear regression task as it involves just 2 variables.
 
 You can use R, Python, SAS Enterprise Miner or any other tool
